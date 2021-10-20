@@ -1,0 +1,1089 @@
+@media(max-width:1399px) and (min-width:1200px){
+    .heading h2 {
+        font-size: 33px;
+    }
+    .right-side h2 {
+        font-size: 33px;
+    }
+    .map h2 {
+        font-size: 33px;
+    }
+    .icons ul li a i {
+        font-size: 20px;
+    }
+    .icons ul li {
+        width: 36px;
+        height: 36px;
+        line-height: 40px;
+    }
+    .map-img {
+        width: 47%;
+    }
+}
+@media(max-width:1199px) and (min-width:992px){
+    .heading h2 {
+        font-size: 33px;
+    }
+    .right-side h2 {
+        font-size: 31px;
+    }
+    .map h2 {
+        font-size: 30px;
+    }
+    .icons ul li a i {
+        font-size: 18px;
+    }
+    .icons ul li {
+        width: 34px;
+        height: 34px;
+        line-height: 38px;
+    }
+    .map-img {
+        width: 47%;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-right: 15px;
+        font-size: 15px;
+    }
+    .number h5 {
+        font-size: 17px;
+    }
+    .number i {
+        font-size: 17px;
+    }
+    .feature p {
+        padding: 0 0;
+    }
+    .left-side img {
+        width: 78%;
+    }
+    .client-review h3 {
+        font-size: 22px;
+        padding-right: 0px;
+        margin-bottom: 49px;
+    }
+    .self-promotion h2 {
+        font-size: 27px;
+    }
+    .pricing-table h1 {
+        font-size: 54px;
+    }
+    .pricing-table h5 {
+        font-size: 19px;
+    }
+    .btn-price {
+        padding: 11px 27px;
+    }
+    .client-img img {
+        width: 66%;
+    }
+}
+@media(max-width:991px) and (min-width:768px){
+    .cf {
+        justify-content: unset!important;
+    }
+    .heading h2 {
+        font-size: 33px;
+    }
+    .right-side h2 {
+        font-size: 31px;
+    }
+    .map h2 {
+        font-size: 30px;
+    }
+    .icons ul li a i {
+        font-size: 18px;
+    }
+    .icons ul li {
+        width: 34px;
+        height: 34px;
+        line-height: 38px;
+    }
+    .map-img {
+        width: 47%;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-right: 0;
+        font-size: 15px;
+        padding: 0;
+        margin-top: 31px;
+        display: inline-block;
+    }
+    .number h5 {
+        font-size: 17px;
+    }
+    .number i {
+        font-size: 17px;
+    }
+    .feature p {
+        padding: 0 0;
+    }
+    .left-side img {
+        width: 78%;
+    }
+    .client-review h3 {
+        font-size: 22px;
+        padding-right: 0px;
+        margin-bottom: 32px;
+        line-height: 38px;
+    }
+    .self-promotion h2 {
+        font-size: 27px;
+    }
+    .pricing-table h1 {
+        font-size: 54px;
+    }
+    .pricing-table h5 {
+        font-size: 19px;
+    }
+    .btn-price {
+        padding: 11px 27px;
+    }
+    .client-img img {
+        width: 68%;
+    }
+    .banner-text{
+        text-align: center;
+    }
+    .margin{
+        margin: auto;
+    }
+    .down-feature p {
+        padding-right: 0;
+    }
+    .left-side{
+        display: none;
+    }
+    .left-side-2{
+        display: inherit;
+        margin-top: 36px;
+    }
+    .gh {
+        min-height: 33vh;
+    }
+    .client-review {
+        margin: 118px 0;
+    }
+    .pricing-3{
+        border-left: 1px solid #c1d3d2;
+        border-top: none;
+    }
+    .marginauto{
+        margin: auto;
+    }
+    
+    .navbar-nav {
+        text-align: center;
+        margin-top: 43px;
+    }
+    .self-btn {
+        text-align: center;
+    }
+    .self-promotion {
+        padding: 79px 0;
+        text-align: center;
+    }
+    .btn-self {
+        margin-top: 23px;
+    }
+    .second-part {
+        text-align: center;
+        margin-bottom: 67px;
+    }
+    .newsletter {
+        text-align: center;
+    }
+    .news{
+        margin: auto;
+    }
+    form {
+        text-align: left;
+    }
+    .footer-2 {
+        padding: 99px 0 57px;
+    }
+    .navbar-light .navbar-nav .nav-link:before {
+        content: '';
+        position: absolute;
+        width: 0%;
+        height: 4px;
+        background: #6fb048;
+        bottom: -8px;
+        left: 50%;
+        transform: translateX(-50%);
+        transition: .25s all ease-in-out;
+    }
+    .navbar-light .navbar-nav .nav-link:hover:before {
+        width: 100%;
+    }
+}
+@media(max-width:767px) and (min-width:576px){
+    .cf {
+        justify-content: unset!important;
+    }
+    .heading h2 {
+        font-size: 32px;
+    }
+    .right-side h2 {
+        font-size: 30px;
+    }
+    .map h2 {
+        font-size: 30px;
+    }
+    .icons ul li a i {
+        font-size: 18px;
+    }
+    .icons ul li {
+        width: 34px;
+        height: 34px;
+        line-height: 38px;
+    }
+    .map-img {
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-right: 0;
+        font-size: 15px;
+        padding: 0;
+        margin-top: 31px;
+        display: inline-block;
+    }
+    .number h5 {
+        font-size: 17px;
+    }
+    .number i {
+        font-size: 17px;
+    }
+    .feature p {
+        padding: 0 0;
+    }
+    .left-side img {
+        width: 78%;
+    }
+    .client-review h3 {
+        font-size: 21px;
+        padding-right: 0px;
+        margin-bottom: 32px;
+        line-height: 38px;
+    }
+    .self-promotion h2 {
+        font-size: 27px;
+    }
+    .pricing-table h1 {
+        font-size: 54px;
+    }
+    .pricing-table h5 {
+        font-size: 19px;
+    }
+    .btn-price {
+        padding: 11px 27px;
+    }
+    .client-img img {
+        width: 50%;
+    }
+    .banner-text{
+        text-align: center;
+    }
+    .margin{
+        margin: auto;
+    }
+    .down-feature p {
+        padding-right: 0;
+    }
+    .left-side{
+        display: none;
+    }
+    .left-side-2{
+        display: inherit;
+        margin-top: 47px;
+    }
+    .gh {
+        min-height: 33vh;
+    }
+    .client-review {
+        margin: 39px 0 96px;
+    }
+    .pricing-3{
+        border-left: 1px solid #c1d3d2;
+        border-top: none;
+    }
+    .marginauto{
+        margin: auto;
+    }
+    
+    .navbar-nav {
+        text-align: center;
+        margin-top: 43px;
+    }
+    .self-btn {
+        text-align: center;
+    }
+    .self-promotion {
+        padding: 79px 0;
+        text-align: center;
+    }
+    .btn-self {
+        margin-top: 23px;
+    }
+    .second-part {
+        text-align: center;
+        margin-bottom: 67px;
+    }
+    .newsletter {
+        text-align: center;
+    }
+    .news{
+        margin: 10px 0;
+    }
+    form {
+        text-align: left;
+    }
+    .footer-2 {
+        padding: 99px 0 57px;
+    }
+    .feature {
+        margin-bottom: 63px;
+    }
+    .down-feature {
+        margin-bottom: 145px;
+        margin-top: -81px;
+    }
+    .features {
+        margin-bottom: 5px;
+    }
+    .client-img{
+        display: none;
+    }
+    .client-img-2{
+        display: block;
+        margin-top: 72px;
+    }
+    .client-chobi{
+        margin: auto;
+        display: inherit;
+    }
+    .client{
+        text-align: center;
+    }
+    .pricing-2 {
+        border-left: auto;
+    }
+    .map {
+        padding: 79px 0px 93px;
+    }
+    .map-img-2{
+        display: inherit;
+    }
+    .map p {
+        color: #83a7a5;
+        font-weight: 500;
+        margin: 0;
+        line-height: 26px;
+        margin-bottom: 55px;
+    }
+    .sec-2{
+        text-align: left;
+    }
+    .heading p {
+        padding: 0 30px;
+    }
+    .navbar-light .navbar-nav .nav-link:before {
+        content: '';
+        position: absolute;
+        width: 0%;
+        height: 4px;
+        background: #6fb048;
+        bottom: -8px;
+        left: 50%;
+        transform: translateX(-50%);
+        transition: .25s all ease-in-out;
+    }
+    .navbar-light .navbar-nav .nav-link:hover:before {
+        width: 100%;
+    }
+    
+}
+@media(max-width:575px) and (min-width:0px){
+    .cf {
+        justify-content: unset!important;
+    }
+    .heading h2 {
+        font-size: 32px;
+    }
+    .right-side h2 {
+        font-size: 30px;
+    }
+    .map h2 {
+        font-size: 30px;
+    }
+    .icons ul li a i {
+        font-size: 17px;
+    }
+    .icons ul li {
+        width: 33px;
+        height: 33px;
+        line-height: 36px;
+    }
+    .map-img {
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-right: 0;
+        font-size: 15px;
+        padding: 0;
+        margin-top: 31px;
+        display: inline-block;
+    }
+    .navbar-light .navbar-nav .nav-link:before {
+        content: '';
+        position: absolute;
+        width: 0%;
+        height: 4px;
+        background: #6fb048;
+        bottom: -8px;
+        left: 50%;
+        transform: translateX(-50%);
+        transition: .25s all ease-in-out;
+    }
+    .navbar-light .navbar-nav .nav-link:hover:before {
+        width: 100%;
+    }
+    .number h5 {
+        display: none;
+    }
+    .number i {
+        font-size: 19px;
+    }
+    .feature p {
+        padding: 0 0;
+    }
+    .left-side img {
+        width: 78%;
+    }
+    .client-review h3 {
+        font-size: 21px;
+        padding-right: 0px;
+        margin-bottom: 32px;
+        line-height: 38px;
+    }
+    .self-promotion h2 {
+        font-size: 27px;
+    }
+    .pricing-table h1 {
+        font-size: 54px;
+    }
+    .pricing-table h5 {
+        font-size: 19px;
+    }
+    .btn-price {
+        padding: 11px 27px;
+    }
+    .client-img img {
+        width: 50%;
+    }
+    .banner-text{
+        text-align: center;
+    }
+    .margin{
+        margin: auto;
+    }
+    .down-feature p {
+        padding-right: 0;
+    }
+    .left-side{
+        display: none;
+    }
+    .left-side-2{
+        display: inherit;
+        margin-top: 47px;
+    }
+    .gh {
+        min-height: 33vh;
+    }
+    .client-review {
+        margin: 23px 0 87px;
+    }
+    .pricing-3{
+        border-left: 1px solid #c1d3d2;
+        border-top: 1px solid #c1d3d2;
+        margin-bottom: 0;
+    }
+    .marginauto{
+        margin: auto;
+    }
+    
+    .navbar-nav {
+        text-align: center;
+        margin-top: 43px;
+    }
+    .self-btn {
+        text-align: center;
+    }
+    .self-promotion {
+        padding: 79px 0;
+        text-align: center;
+    }
+    .btn-self {
+        margin-top: 23px;
+    }
+    .second-part {
+        text-align: center;
+        margin-bottom: 45px;
+    }
+    .newsletter {
+        text-align: center;
+    }
+    .news{
+        margin: auto;
+        padding-bottom: 10px;
+    }
+    form {
+        text-align: left;
+    }
+    .footer-2 {
+        padding: 99px 0 57px;
+    }
+    .feature {
+        margin-bottom: 63px;
+    }
+    .down-feature {
+        margin-bottom: 145px;
+        margin-top: -81px;
+    }
+    .features {
+        margin-bottom: 5px;
+    }
+    .client-img{
+        display: none;
+    }
+    .client-img-2{
+        display: block;
+        margin-top: 72px;
+    }
+    .client-chobi{
+        margin: auto;
+        display: inherit;
+    }
+    .client{
+        text-align: center;
+    }
+    .pricing-2 {
+        border-left: 1px solid #c1d3d2;
+    }
+    .map {
+        padding: 79px 0px 93px;
+    }
+    .map-img-2{
+        display: inherit;
+    }
+    .map p {
+        color: #83a7a5;
+        font-weight: 500;
+        margin: 0;
+        line-height: 26px;
+        margin-bottom: 55px;
+    }
+    .sec-2{
+        text-align: center;
+    }
+    .pricing-table {
+        margin-bottom: 30px;
+    }
+    .help-heading h3 {
+        font-size: 20px;
+    }
+    .first-part {
+        text-align: center;
+        margin-bottom: 45px;
+    }
+    footer h6 {
+        text-align: center;
+        padding: 25px 0 0px;
+    }
+    .icons ul {
+        padding: 9px 0 25px;
+        justify-content: space-between;
+        width: 54%;
+        margin: auto;
+    }
+    .icons ul li{
+        margin: 0;
+    }
+    .heading p {
+        padding: 0px;
+    }
+    .card-body{
+        display: inherit;
+        background: #6fb048;
+        margin-top: 13px;
+        margin-left: 75px;
+        border-radius: 0;
+        padding: 13px 16px;
+    }
+    .card-body h5{
+    color: #fff;
+    font-size: 16px;
+    margin: 0;
+    }
+    
+}
+@media(max-width:406px) and (min-width:0px){
+    .navbar-light .navbar-nav .nav-link:before {
+        content: '';
+        position: absolute;
+        width: 0!important;
+        height: 4px;
+        background: #6fb048;
+        bottom: -8px;
+        left: 50%;
+        transform: translateX(-50%);
+        transition: .25s all ease-in-out;
+    }
+    .navbar-light .navbar-nav .nav-link:hover:before {
+        width: 100%!important;
+    }
+    .navbar-brand img{
+        width: 90%;
+    }
+    .navbar-brand {
+        margin-right: 0.5rem;
+    }
+    .sideline {
+        margin-right: 1rem;
+    }
+    .cf {
+        justify-content: unset!important;
+    }
+    .heading h2 {
+        font-size: 32px;
+    }
+    .right-side h2 {
+        font-size: 30px;
+    }
+    .map h2 {
+        font-size: 30px;
+    }
+    .icons ul li a i {
+        font-size: 17px;
+    }
+    .icons ul li {
+        width: 33px;
+        height: 33px;
+        line-height: 36px;
+    }
+    .map-img {
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-right: 0;
+        font-size: 15px;
+        padding: 0;
+        margin-top: 31px;
+        display: inline-block;
+    }
+    .number h5 {
+        font-size: 16px;
+    }
+    .number i {
+        font-size: 19px;
+    }
+    .feature p {
+        padding: 0 0;
+    }
+    .left-side img {
+        width: 78%;
+    }
+    .client-review h3 {
+        font-size: 21px;
+        padding-right: 0px;
+        margin-bottom: 32px;
+        line-height: 38px;
+    }
+    .self-promotion h2 {
+        font-size: 27px;
+    }
+    .pricing-table h1 {
+        font-size: 54px;
+    }
+    .pricing-table h5 {
+        font-size: 19px;
+    }
+    .btn-price {
+        padding: 11px 27px;
+    }
+    .client-img img {
+        width: 50%;
+    }
+    .banner-text{
+        text-align: center;
+    }
+    .margin{
+        margin: auto;
+    }
+    .down-feature p {
+        padding-right: 0;
+    }
+    .left-side{
+        display: none;
+    }
+    .left-side-2{
+        display: inherit;
+        margin-top: 47px;
+    }
+    .gh {
+        min-height: 33vh;
+    }
+    .client-review {
+        margin: 23px 0 87px;
+    }
+    .pricing-3{
+        border-left: 1px solid #c1d3d2;
+        border-top: 1px solid #c1d3d2;
+        margin-bottom: 0;
+    }
+    .marginauto{
+        margin: auto;
+    }
+    .navbar-light .navbar-nav .nav-link:before {
+        width: 100%;
+        bottom: -8px;
+    }
+    .navbar-nav {
+        text-align: center;
+        margin-top: 43px;
+    }
+    .self-btn {
+        text-align: center;
+    }
+    .self-promotion {
+        padding: 79px 0;
+        text-align: center;
+    }
+    .btn-self {
+        margin-top: 23px;
+        font-size: 14px;
+    }
+    .second-part {
+        text-align: center;
+        margin-bottom: 45px;
+    }
+    .newsletter {
+        text-align: center;
+    }
+    .news{
+        margin: auto;
+        padding-bottom: 10px;
+    }
+    form {
+        text-align: left;
+    }
+    .footer-2 {
+        padding: 99px 0 57px;
+    }
+    .feature {
+        margin-bottom: 63px;
+    }
+    .down-feature {
+        margin-bottom: 145px;
+        margin-top: -81px;
+    }
+    .features {
+        margin-bottom: 5px;
+    }
+    .client-img{
+        display: none;
+    }
+    .client-img-2{
+        display: block;
+        margin-top: 72px;
+    }
+    .client-chobi{
+        margin: auto;
+        display: inherit;
+    }
+    .client{
+        text-align: center;
+    }
+    .pricing-2 {
+        border-left: 1px solid #c1d3d2;
+    }
+    .map {
+        padding: 79px 0px 93px;
+    }
+    .map-img-2{
+        display: inherit;
+    }
+    .map p {
+        color: #83a7a5;
+        font-weight: 500;
+        margin: 0;
+        line-height: 26px;
+        margin-bottom: 55px;
+    }
+    .sec-2{
+        text-align: center;
+    }
+    .pricing-table {
+        margin-bottom: 30px;
+    }
+    .help-heading h3 {
+        font-size: 20px;
+    }
+    .first-part {
+        text-align: center;
+        margin-bottom: 45px;
+    }
+    footer h6 {
+        text-align: center;
+        padding: 25px 0 0px;
+    }
+    .icons ul {
+        padding: 9px 0 25px;
+        justify-content: space-between;
+        width: 54%;
+        margin: auto;
+    }
+    .icons ul li{
+        margin: 0;
+    }
+    .banner-text h2 {
+        font-size: 41px;
+    }
+    .banner-text p {
+        font-size: 19px;
+    }
+    .btn-learn {
+        font-size: 15px;
+    }
+    .card-body{
+        display: inherit;
+        background: #6fb048;
+        margin-top: 13px;
+        margin-left: 48px;
+        border-radius: 0;
+        padding: 13px 16px;
+    }
+    .card-body h5{
+    color: #fff;
+    font-size: 16px;
+    margin: 0;
+    }
+}
+@media(max-width:335px) and (min-width:0px){
+    .navbar-brand img{
+        width: 90%;
+    }
+    .navbar-brand {
+        margin-right: 0.5rem;
+    }
+    .sideline {
+        margin-right: 1rem;
+    }
+    .cf {
+        justify-content: unset!important;
+    }
+    .heading h2 {
+        font-size: 30px;
+    }
+    .right-side h2 {
+        font-size: 29px;
+    }
+    .map h2 {
+        font-size: 29px;
+    }
+    .icons ul li a i {
+        font-size: 17px;
+    }
+    .icons ul li {
+        width: 33px;
+        height: 33px;
+        line-height: 36px;
+    }
+    .map-img {
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-right: 0;
+        font-size: 14px;
+        padding: 0;
+        margin-top: 31px;
+        display: inline-block;
+    }
+    .number h5 {
+        display: none;
+    }
+    .number i {
+        font-size: 18px;
+    }
+    .feature p {
+        padding: 0 0;
+    }
+    .left-side img {
+        width: 78%;
+    }
+    .client-review h3 {
+        font-size: 20px;
+        padding-right: 0px;
+        margin-bottom: 32px;
+        line-height: 33px;
+    }
+    .self-promotion h2 {
+        font-size: 27px;
+    }
+    .pricing-table h1 {
+        font-size: 54px;
+    }
+    .pricing-table h5 {
+        font-size: 19px;
+    }
+    .btn-price {
+        padding: 11px 27px;
+    }
+    .client-img img {
+        width: 55%;
+    }
+    .banner-text{
+        text-align: center;
+    }
+    .margin{
+        margin: auto;
+    }
+    .down-feature p {
+        padding-right: 0;
+    }
+    .left-side{
+        display: none;
+    }
+    .left-side-2{
+        display: inherit;
+        margin-top: 47px;
+    }
+    .gh {
+        min-height: 33vh;
+    }
+    .client-review {
+        margin: 23px 0 87px;
+    }
+    .pricing-3{
+        border-left: 1px solid #c1d3d2;
+        border-top: 1px solid #c1d3d2;
+        margin-bottom: 0;
+    }
+    .marginauto{
+        margin: auto;
+    }
+    .navbar-light .navbar-nav .nav-link:before {
+        width: 100%;
+        bottom: -8px;
+    }
+    .navbar-nav {
+        text-align: center;
+        margin-top: 43px;
+    }
+    .self-btn {
+        text-align: center;
+    }
+    .self-promotion {
+        padding: 79px 0;
+        text-align: center;
+    }
+    .btn-self {
+        margin-top: 23px;
+        font-size: 14px;
+    }
+    .second-part {
+        text-align: center;
+        margin-bottom: 45px;
+    }
+    .newsletter {
+        text-align: center;
+    }
+    .news{
+        margin: auto;
+        padding-bottom: 10px;
+    }
+    form {
+        text-align: left;
+    }
+    .footer-2 {
+        padding: 99px 0 57px;
+    }
+    .feature {
+        margin-bottom: 63px;
+    }
+    .down-feature {
+        margin-bottom: 145px;
+        margin-top: -81px;
+    }
+    .features {
+        margin-bottom: 5px;
+    }
+    .client-img{
+        display: none;
+    }
+    .client-img-2{
+        display: block;
+        margin-top: 72px;
+    }
+    .client-chobi{
+        margin: auto;
+        display: inherit;
+    }
+    .client{
+        text-align: center;
+    }
+    .pricing-2 {
+        border-left: 1px solid #c1d3d2;
+    }
+    .map {
+        padding: 79px 0px 93px;
+    }
+    .map-img-2{
+        display: inherit;
+    }
+    .map p {
+        color: #83a7a5;
+        font-weight: 500;
+        margin: 0;
+        line-height: 26px;
+        margin-bottom: 55px;
+    }
+    .sec-2{
+        text-align: center;
+    }
+    .pricing-table {
+        margin-bottom: 30px;
+    }
+    .help-heading h3 {
+        font-size: 20px;
+    }
+    .first-part {
+        text-align: center;
+        margin-bottom: 45px;
+    }
+    footer h6 {
+        text-align: center;
+        padding: 25px 0 0px;
+    }
+    .icons ul {
+        padding: 9px 0 25px;
+        justify-content: space-between;
+        width: 65%;
+        margin: auto;
+    }
+    .icons ul li{
+        margin: 0;
+    }
+    .banner-text h2 {
+        font-size: 35px;
+    }
+    .banner-text p {
+        font-size: 16px;
+    }
+    .btn-learn {
+        font-size: 15px;
+    }
+    .down-feature h5 {
+        font-size: 19px;
+    }
+}
