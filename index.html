@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="css/all.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="media.css">
 </head>
@@ -76,7 +77,7 @@
                       <div class="row hg">
                           <div class="col-lg-6 col-md-8 margin">
                               <div class="banner-text">
-                                <h2>Welcome to Wapik</h2>
+                                <h2 class="wow bounceInRight">Welcome to Wapik</h2>
                                 <p>Wapik is multipurpose template, with modern and smart design. Wapik is perfect template for you!</p>
                                 <a href="#" class="btn btn-learn">LEARN MORE</a>
                               </div>
@@ -92,7 +93,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-8 mx-auto">
                     <div class="heading text-center">
-                        <h2>Best of our features</h2>
+                        <h2 class="wow bounceInLeft">Best of our features</h2>
                         <span></span>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                             Integer posuere erat a ante venenatis dapibus posuere velit aliquet.</p>
@@ -176,7 +177,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-8 mx-auto">
                     <div class="heading heading-2 text-center">
-                        <h2>Looking for the perfect template to use?</h2>
+                        <h2 class="wow bounceInRight">Looking for the perfect template to use?</h2>
                         <span></span>
                         <p>Donec id elit non mi porta gravida at eget metus.</p>
                     </div>
@@ -257,7 +258,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h2>Built with High Attention to Details</h2>
+                    <h2 class="wow bounceInLeft">Built with High Attention to Details</h2>
                     <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean lacinia bibendum nulla sed consectetur. Maecenas sed diam eget risus varius blandit sit amet non magna. Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec id elit </p>
                 </div>
                 <div class="col-sm-11 mx-auto">
@@ -278,7 +279,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-8 col-md-8 mx-auto">
                     <div class="heading price-heading text-center">
-                        <h2>Pricing & Plan</h2>
+                        <h2 class="wow fadeInDown">Pricing & Plan</h2>
                         <span></span>
                         <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.
                             Donec id elit non mi porta gravida at eget metus.</p>
@@ -289,7 +290,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-9 mx-auto text-center nopad">
                             <div class="pricing-table">
                                 <h5>BASIC</h5>
-                                <h1>$199</h1>
+                                <h1><span>$</span><span class="countfect" data-num="619"></span></h1>
                                 <p>/month</p>
                                 <ul>
                                     <li>Justo Fringilla</li>
@@ -303,7 +304,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-9 mx-auto text-center nopad">
                             <div class="pricing-table pricing-2">
                                 <h5>PLUS</h5>
-                                <h1>$399</h1>
+                                <h1><span>$</span><span class="countfect" data-num="899"></span></h1>
                                 <p>/month</p>
                                 <ul>
                                     <li>Justo Fringilla</li>
@@ -317,7 +318,7 @@
                         <div class="col-lg-4 col-md-6 col-sm-6 col-9 mx-auto text-center nopad marginauto">
                             <div class="pricing-table pricing-2 pricing-3">
                                 <h5>PREMIUM</h5>
-                                <h1>$699</h1>
+                                <h1><span>$</span><span class="countfect" data-num="999"></span></h1>
                                 <p>/month</p>
                                 <ul>
                                     <li>Justo Fringilla</li>
@@ -339,7 +340,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-8 col-md-8 mx-auto">
                     <div class="heading plan-heading text-center">
-                        <h2>Included with all Plans</h2>
+                        <h2 class="wow fadeInDown">Included with all Plans</h2>
                         <span></span>
                     </div>
                 </div>
@@ -537,5 +538,30 @@
      });
     });
     </script>
+
+<script src="js/wow.min.js"></script>
+<script>
+  wow = new WOW(
+    {
+      boxClass:     'wow',      // default
+      animateClass: 'animated', // default
+      offset:       0,          // default
+      mobile:       false,             
+      live:         true        // default
+    }
+  )
+wow.init();
+</script>
+<script src="js/css3-animate-it.js"></script>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js'></script>
+    <script src="js/jquery.counterup.min.js"></script>
+    <script>
+        $('.counter').counterUp({
+            delay: 30,
+            time: 3000
+        });
+    </script>
+    <script src="js/countfect.min.js"></script>
 </body>
 </html>
